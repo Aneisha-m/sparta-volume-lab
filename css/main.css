@@ -1,0 +1,38 @@
+/* ///Fixed-Nav/// */
+.navbar{
+    background: lightblue;
+    text: #fff;
+}
+
+#nav-btn{
+    background: #fff;
+    border: 1px solid #fff;
+    text: lightblue;
+}
+
+#nav-btn:hover{
+    text: #111;
+}
+
+/* ///video/// */
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+#video{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/*///intro & awards///  */
+#intro-text{
+    background: #fff;
+    margin-top: -100px;
+}
+
+.tiles{
+    padding: 2px;
+}
